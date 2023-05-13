@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ujjwi
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning webdl and C++
-- 📫 Reach me at uraj85069@gmail.com
+- 📫 Reach me at ujjwalr@iitbhilai.ac.in
 
 <!---
 ujjwi/ujjwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

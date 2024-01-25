@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ujjwi
+- 👋 Hello, I’m Ujjwal
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning webdl and C++
+- 🌱 I’m currently learning DSA and WebDev
 - 📫 Reach me at ujjwalr@iitbhilai.ac.in
 
 <!---

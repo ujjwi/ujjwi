@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Ujjwal
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning DSA and WebDev
+- 👀 I’m interested in SWE opportunities with proficiency in DSA and WebDev
+- 🌱 I’m currently learning DSA, WebDev and ML
 - 📫 Reach me at ujjwalr@iitbhilai.ac.in
 
 <!---
